@@ -1,0 +1,23 @@
+
+h2{text-decoration: underline;color:deeppink}
+    h3{color:rgb(255, 115, 0)}
+    p{font-size: 20px; font-style: oblique;}
+    ul{font-style: italic;}
+    body{background-color: azure;}
+    a{color: purple;}
+    #greeting{ color:cadetblue}
+    #div{color: hotpink;background-color: rgba(148, 178, 11, 0.486);border: dashed;float: inline-end;padding: 15pt;position:relative;left: 600pt;bottom:110pt;width: fit-content;}
+    img {width: 250pt;height: 300pt;position:static}
+    .intro{color: rgb(80, 121, 255);}
+    form
+        {background-color: rgb(23, 139, 62);padding: 18px;border-style: solid;font-weight:900px;font-style:italic;
+        }
+        input[name=submit]{color: rgb(141, 226, 51)}
+        input[type=button]:hover{color:orange}
+        input[type=text]:focus {color:red;background-color: aquamarine;width: auto;transition: 2s;}
+ .box{border: solid;color: rgb(225, 116, 27);border-radius: 19pt;display:inline-block;overflow: auto;width: fit-content;padding: 10pt;}       
+    
+   .para{display:contents;}
+   #div1 {display: inline-block;border:solid}
+   #div2 {display: inline-block;border: solid;}
+   #div3 {display: inline-block;border: solid;}
